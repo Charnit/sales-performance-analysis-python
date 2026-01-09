@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# IDE files
+.idea/
+
+# Output images (optional – keep if you want visuals in repo)
+# outputs/
